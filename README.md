@@ -8,8 +8,8 @@ A Linear-inspired issue tracker for building project management tools, bug track
 
 Built with **Preact + Hono + SQLite**. Ships with a dual-mode UI: one for humans (click-to-edit, inline forms) and one for AI agents (explicit buttons, large targets).
 
-![Clawnify Todo App Demo](https://github.com/clawnify/todo-app/raw/main/docs/demo.gif)
-*A Linear-style issue tracker with projects, labels, comments, and status grouping.*
+![Clawnify Todo App — Issues grouped by status](https://github.com/clawnify/todo-app/raw/main/docs/screenshot.png)
+*Issues grouped by status with priority indicators, colored labels, and project tags.*
 
 ## What Is It?
 
