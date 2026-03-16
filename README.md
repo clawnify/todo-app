@@ -1,4 +1,4 @@
-# Clawnify Todo App: The Open-Source Linear Alternative for SaaS
+# OpenClaw Todo App: The Open-Source Linear Alternative for SaaS
 
 [![GitHub stars](https://img.shields.io/github/stars/clawnify/todo-app?style=social)](https://github.com/clawnify/todo-app/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
