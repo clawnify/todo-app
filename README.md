@@ -136,10 +136,6 @@ _meta        (key, value)          — identifier counter + prefix
 | GET | `/api/labels` | All labels |
 | POST | `/api/labels` | Create label |
 
-## How Clawnify Uses This
-
-[Clawnify](https://clawnify.com) uses this template as a starting point when AI agents request an issue tracker or project management app via the App Builder. The `db.ts` file is swapped with a Cloudflare D1 adapter, the code is bundled in a sandbox, and deployed to Workers for Platforms. The rest of the app stays identical.
-
 ## Community & Contributions
 
 This project is part of the [OpenClaw](https://github.com/openclaw/openclaw) ecosystem. Contributions are welcome — open an issue or submit a PR.
