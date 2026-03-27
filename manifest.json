@@ -1,0 +1,33 @@
+{
+  "name": "Todo App",
+  "description": "Issue tracker with projects, labels, comments, and auto-generated identifiers. Like Linear. Best for issue tracking, bug tracking, project management with detailed issues, or task management with labels and priorities.",
+  "framework": "preact+hono",
+  "files": [
+    "src/server/index.ts",
+    "src/server/db.ts",
+    "src/server/schema.sql",
+    "src/client/app.tsx",
+    "src/client/main.tsx",
+    "src/client/api.ts",
+    "src/client/types.ts",
+    "src/client/context.tsx",
+    "src/client/styles.css",
+    "src/client/hooks/use-app.ts",
+    "src/client/components/issue-list.tsx",
+    "src/client/components/issue-row.tsx",
+    "src/client/components/issue-detail.tsx",
+    "src/client/components/create-issue.tsx",
+    "src/client/components/project-list.tsx",
+    "src/client/components/create-project.tsx",
+    "src/client/components/sidebar.tsx",
+    "src/client/components/label-pill.tsx",
+    "src/client/components/priority-icon.tsx",
+    "src/client/components/status-icon.tsx",
+    "src/client/components/pagination.tsx",
+    "src/client/components/error-banner.tsx",
+    "package.json",
+    "vite.config.ts",
+    "tsconfig.json",
+    "index.html"
+  ]
+}
